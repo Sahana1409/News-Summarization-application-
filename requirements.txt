@@ -1,0 +1,9 @@
+flask
+streamlit
+requests
+beautifulsoup4
+textblob
+gtts
+scikit-learn
+joblib
+googletrans==4.0.0-rc1
